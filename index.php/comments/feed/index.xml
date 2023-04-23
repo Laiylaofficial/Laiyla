@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Laiyla	</title>
-	<atom:link href="https://laiylaofficial.github.io/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://laiylaofficial.github.io/</link>
+	<atom:link href="https://laiylaofficial.github.io/Laiyla/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://laiylaofficial.github.io/Laiyla/</link>
 	<description></description>
 	<lastBuildDate>Sat, 22 Apr 2023 23:48:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://laiylaofficial.github.io/index.php/2023/04/22/hello-world/#comment-1</link>
+		<link>https://laiylaofficial.github.io/Laiyla/index.php/2023/04/22/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 22 Apr 2023 23:48:27 +0000</pubDate>
-		<guid isPermaLink="false">https://laiylaofficial.github.io/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://laiylaofficial.github.io/Laiyla/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
